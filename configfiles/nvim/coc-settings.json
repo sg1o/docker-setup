@@ -1,5 +1,0 @@
-{
-  "pyright.inlayHints.variableTypes": false,
-  "pyright.inlayHints.functionReturnTypes": false,
-  "snippets.ultisnips.pythonPrompt": false
-}
